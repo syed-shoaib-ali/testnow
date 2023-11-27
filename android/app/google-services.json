@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "680522321196",
+    "project_id": "wheebox-d87de",
+    "storage_bucket": "wheebox-d87de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680522321196:android:92f8ab83bdc05e1467f089",
+        "android_client_info": {
+          "package_name": "com.wheeboxapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680522321196-ifb2irv7vgofmf4rmq0mjkbv5av78t94.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wheeboxapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "680522321196-ip98it9o8dirj4qa969rfjvmfmajf69n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB54zmdlqsjQZs84ntMfNX7McZuEpJLUiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680522321196-ip98it9o8dirj4qa969rfjvmfmajf69n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
